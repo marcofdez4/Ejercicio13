@@ -1,0 +1,18 @@
+PROGRAMA DE POKEMON
+
+Nombre del pokemon: charizard
+Peso: 905
+Tipos: fire - flying
+--------------------------------------------------
+Nombre del pokemon: mewtwo
+Peso: 1220
+Tipos: psychic
+--------------------------------------------------
+Nombre del pokemon: grovyle
+Peso: 216
+Tipos: grass
+--------------------------------------------------
+Nombre del pokemon: gengar
+Peso: 405
+Tipos: ghost - poison
+--------------------------------------------------
