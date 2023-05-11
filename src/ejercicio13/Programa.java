@@ -60,6 +60,7 @@ public class Programa {
 					System.out.println(nombre);
 					System.out.println(peso);
 					System.out.println(tipos);
+					System.out.println("--------------------------------------------------");
 					
 					bw.write("\nNombre del pokemon: "+nombre);
 					bw.write("\nPeso: "+peso);
